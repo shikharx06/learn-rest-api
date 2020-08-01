@@ -56,12 +56,13 @@ NOTE: follow these point below in the given order to make your life easier
 
 - [free course on mongodb data modelling](https://university.mongodb.com/courses/M320/about)
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif" >
   <br>
 </p>
 
 ### That's all folks. You are pretty much done here....
 
-<img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" align="center" width=300>
-
+<p align="center">
+<img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" width=350>
+</p>
