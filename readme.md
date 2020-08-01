@@ -13,6 +13,7 @@ NOTE: follow these point below in the given order to make your life easier
 - [fantastic Video explaining REST API.](https://www.youtube.com/watch?v=0oXYLzuucwE). In case you are lazy to read the docs.
 
 <p align="center">
+  <br>
   <img src="https://media.giphy.com/media/EulSbube9JIha/giphy.gif">
   <br><br>
 </p>
