@@ -1,6 +1,7 @@
 # RESOURCES 📖
-
-![](https://media.giphy.com/media/8vIFoKU8s4m4CBqCao/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/8vIFoKU8s4m4CBqCao/giphy.gif">
+</p>
 
 NOTE: follow these point below in the given order to make your life easier
 
@@ -11,7 +12,10 @@ NOTE: follow these point below in the given order to make your life easier
 - MongoDb is a noSQL database. [What the heck is a noSQL database??](https://www.mongodb.com/nosql-explained)
 - [fantastic Video explaining REST API.](https://www.youtube.com/watch?v=0oXYLzuucwE). In case you are lazy to read the docs.
 
-![](https://media.giphy.com/media/EulSbube9JIha/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/EulSbube9JIha/giphy.gif">
+  <br><br>
+</p>
 
 - [nodeJS setup and crash course by DevEd :boy:](https://www.youtube.com/watch?v=zQRrXTSkvfw&t=2s)
 - [Rest api tutorial by DevEd](https://www.youtube.com/watch?v=vjf774RKrLc). :point_left: In this video, he connects mLAB to his app for mongo database. But they have stopped accepting new users. You can use Mongo Atlas instead.
@@ -32,7 +36,11 @@ NOTE: follow these point below in the given order to make your life easier
 
 ### optional read and resources: (is it really optional?? 😬)
 
-[](https://media.giphy.com/media/fOVGTYyYtV6Ra/giphy.gif)
+<p align="center">
+  <br>
+  <img src="https://media.giphy.com/media/fOVGTYyYtV6Ra/giphy.gif">
+  <br><br>
+</p>
 
 - [vs code setup](https://www.youtube.com/watch?v=LdF2RcelRg0).
 
@@ -48,11 +56,12 @@ NOTE: follow these point below in the given order to make your life easier
 
 - [free course on mongodb data modelling](https://university.mongodb.com/courses/M320/about)
 
-
-![that's it](https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif)
-
-![that's it](https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif)
+<p align="left">
+  <img src="https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif" >
+  <br>
+</p>
 
 ### That's all folks. You are pretty much done here....
 
+<img src="https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif" align="center" width=300>
 
