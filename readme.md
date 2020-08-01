@@ -53,6 +53,6 @@ NOTE: follow these point below in the given order to make your life easier
 
 ### That's all folks. You are pretty much done here....
 
-![hue](https://media.giphy.com/media/f2q836jcJJwMU/giphy.gif)
+![hue](https://media.giphy.com/media/TfKfqjt2i4GIM/giphy.gif)
 
 ---
