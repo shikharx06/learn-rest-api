@@ -22,7 +22,7 @@ NOTE: follow these point below in the given order to make your life easier
 - [Rest api tutorial by DevEd](https://www.youtube.com/watch?v=vjf774RKrLc). :point_left: In this video, he connects mLAB to his app for mongo database. But they have stopped accepting new users. You can use Mongo Atlas instead.
 
   - [connect Mongo Atlas to your app](https://www.youtube.com/watch?v=vjf774RKrLc)
-  - [very old video showing how to connect Mongo to Atlas.](https://www.youtube.com/watch?v=WDrU305J1yw). You can follow his coding methods. But not the way he connects DB because that's outdated.
+  - [very old video showing how to connect your app to Mongo Atlas.](https://www.youtube.com/watch?v=WDrU305J1yw). You can follow his coding methods. But not the way he connects DB because that's outdated.
 
 ---
 
