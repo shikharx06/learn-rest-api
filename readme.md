@@ -51,8 +51,8 @@ NOTE: follow these point below in the given order to make your life easier
 
 ![that's it](https://media.giphy.com/media/8UF0EXzsc0Ckg/giphy.gif)
 
+![that's it](https://media.giphy.com/media/blSTtZehjAZ8I/giphy.gif)
+
 ### That's all folks. You are pretty much done here....
 
-![hue](https://media.giphy.com/media/TfKfqjt2i4GIM/giphy.gif)
 
----
